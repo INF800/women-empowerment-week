@@ -10,7 +10,7 @@ this for today's web.
 
 
 the code  for animation has been written
-in "script.js"
+in "script.js" which is emulatex by "index.html".
 
 to  see the code in live action, click on 
 the link : 
